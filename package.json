@@ -1,0 +1,20 @@
+{
+  "name": "landing-async",
+  "version": "1.0.0",
+  "description": "Proyect using async JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ing Donovan Rojas <rojasdrm03@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngDonovan/landing-async.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IngDonovan/landing-async/issues"
+  },
+  "homepage": "https://github.com/IngDonovan/landing-async#readme"
+}
