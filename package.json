@@ -4,7 +4,7 @@
   "description": "Proyect using async JS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "keywords": [],
   "author": "Ing Donovan Rojas <rojasdrm03@gmail.com>",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IngDonovan/landing-async/issues"
   },
-  "homepage": "https://github.com/IngDonovan/landing-async#readme"
+  "homepage": "https://github.com/IngDonovan/landing-async#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
